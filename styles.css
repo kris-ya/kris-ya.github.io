@@ -1,4 +1,4 @@
 body { background: rgb(255, 255, 240); color: grey; }
 h1 { front-size: 20px; }
 p { color: rgb(0, 0, 139); background-color: rgb(230, 230, 250); front-size: 12px; }
-h1 { front-family: arial; }
+ol { list-style-type: upper-alpha; }
