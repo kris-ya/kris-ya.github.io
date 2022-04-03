@@ -3,4 +3,4 @@ h1 { front-size: 20px; }
 p { color: rgb(0, 0, 139); background-color: rgb(230, 230, 250); front-size: 12px; }
 ol { list-style-type: upper-alpha; }
 ul { list-style-type: disc; }
-.profile-img { width: 200px; height: 200px; border-top: 2px dotted;}
+.profile-img { width: 200px; height: 200px; border: 2px dotted;}
