@@ -1,2 +1,4 @@
-h1 { front-family: arial;
-  color: red; }
+body { background: ivory; color: grey; }
+h1 { front-size: 20px; }
+p { color: darkblue; background-color: lavander; front-size: 12px; }
+h1 { front-family: arial; }
