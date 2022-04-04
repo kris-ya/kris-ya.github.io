@@ -14,7 +14,7 @@ ol {
   list-style-type: upper-alpha;
 }
 ul {
-  list-style-type: disc;
+  list-style-type: square;
 }
 .profile-img img {
   width: 200px; 
