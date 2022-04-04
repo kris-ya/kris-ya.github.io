@@ -4,7 +4,6 @@ p { color: rgb(0, 0, 139); background-color: rgb(230, 230, 250); front-size: 12p
 ol { list-style-type: upper-alpha; }
 ul { list-style-type: disc; }
 img { width: 200px; height: 200px; float: right; 
-.profile-img {
 position: relative;
 left:200px;
 top:-100px; }
