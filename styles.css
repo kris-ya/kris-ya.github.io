@@ -19,7 +19,6 @@ ul {
 .profile-img img {
   width: 200px; 
   height: 200px; 
-  text-align: center;
   border: 2px;
   border-style: dotted; 
 }
