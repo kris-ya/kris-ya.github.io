@@ -25,7 +25,10 @@ ul {
 .project {
  background-image: linear-gradient(white, gray);
 h1 {
-  border: thick double #32a1ce;  
+   margin: 15px 0px 5px 0px;
+   border-bottom: 5px solid black;
+   display: inline-block;
+
   text-align: centre; 
 }
 a {
