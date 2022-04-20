@@ -23,7 +23,7 @@ ul {
   border-style: dotted; 
 }
 .project {
-  background-image: url(http://www.example.com/bck.png);
+  border-image-source: linear-gradient(10deg, #fe01f5 0%, #2e113d 100%);
 h1 {
   border: dashed;
   border-width: 2px 4px;
