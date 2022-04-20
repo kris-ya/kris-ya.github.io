@@ -27,7 +27,7 @@ ul {
 h1 {
   border: thick double #32a1ce;  
 }
-a.href {
+a.href:link {
   border-radius: 25px;
   background: #73AD21;
   padding: 20px;
