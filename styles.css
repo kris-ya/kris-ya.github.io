@@ -22,3 +22,8 @@ ul {
   border: 2px;
   border-style: dotted; 
 }
+.project {
+  background-image: url(http://www.example.com/bck.png);
+h1 {
+ border-radius: 30px;  
+}
