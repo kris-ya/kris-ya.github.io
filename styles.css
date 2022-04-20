@@ -34,7 +34,7 @@ h1 {
 a.href {
   background-color: #bcbc8c;
   padding: 2px;
-  border-radius: 25px;
+  border-radius: 50px;
   text-decoration: none;
 }
 a.href:hover {
