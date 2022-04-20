@@ -23,9 +23,10 @@ ul {
   border-style: dotted; 
 }
 .project {
-  border-image: linear-gradient(10deg, #fe01f5 0%, #2e113d 100%);
+  border-image: linear-gradient(#0B0E7F , #0B95DD);
 h1 {
   border: thick double #32a1ce;  
+  text-align: centre; 
 }
 a {
   border-radius: 25px;
