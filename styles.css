@@ -23,7 +23,7 @@ ul {
   border-style: dotted; 
 }
 .project {
-  background-color: lightblue;
+ background-image: linear-gradient(white, gray);
 h1 {
   border: thick double #32a1ce;  
   text-align: centre; 
