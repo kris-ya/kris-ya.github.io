@@ -30,7 +30,6 @@ h1 {
 a.href:link {
   border-radius: 25px;
   background: #73AD21;
-  padding: 20px;
   text-decoration: none;
 }
 a.href:hover {
