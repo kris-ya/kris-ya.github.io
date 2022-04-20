@@ -25,8 +25,13 @@ ul {
 .project {
   background-image: url(http://www.example.com/bck.png);
 h1 {
-border: dashed;
-border-width: 2px 4px;
-border-radius: 40px;  
+  border: dashed;
+  border-width: 2px 4px;
+  border-radius: 40px;  
 }
-
+a:link {
+  border: none;
+  border-radius: 50%;
+  background: burlywood;
+}
+  
