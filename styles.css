@@ -24,6 +24,7 @@ ul {
 }
 .project {
  background-image: linear-gradient(white, gray);
+ margin: 10px;
 h1 {
   border-width: thick;
   border-style: dotted;
@@ -44,5 +45,7 @@ a.href:hover {
 .image {
   width: 640px; 
   height: 480px; 
+  margin: 20px;
+ 
 }
 	
