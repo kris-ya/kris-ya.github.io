@@ -42,7 +42,7 @@ a.href:hover {
   text-decoration: underline;  
   background-color: black;
 }
-.image {
+.image img {
   width: 640px; 
   height: 480px; 
   margin: 20px;
