@@ -46,7 +46,11 @@ a.href:hover {
 .image img {
   width: 640px; 
   height: 480px; 
-  margin: 20px;
+  border: 2px solid #caca22;
+  padding: 15px; 
+  background: #ddddcf;
+  margin-right: 10px; 
+  margin-bottom: 10px;
  
 }
 	
