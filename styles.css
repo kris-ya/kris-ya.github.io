@@ -31,16 +31,14 @@ h1 {
   border-color: gold;
 }
 a.href {
-  a {
-  background-color: red;
+  background-color: #bcbc8c;
+  padding: 2px;
   border-radius: 25px;
   text-decoration: none;
-  
 }
 a.href:hover {
   color: #ea0b0b0
   text-decoration: underline;  
-  background-color: black;
 }
 .image img {
   width: 640px; 
