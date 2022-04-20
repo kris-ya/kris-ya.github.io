@@ -25,6 +25,7 @@ ul {
 .project {
  background-image: linear-gradient(white, gray);
  margin: 10px;
+}
 h1 {
   border-width: thick;
   border-style: dotted;
