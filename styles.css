@@ -27,10 +27,10 @@ ul {
  margin: 10px;
 }
 h1 h2 {
-  border-width: thick;
-  border-style: dotted;
-  border-color: gold;
   text-align: center; 
+  border-color: gold;
+  border-width: 20px;
+  border-style: groove;
 }
 a.href {
   background-color: #FF704D;
