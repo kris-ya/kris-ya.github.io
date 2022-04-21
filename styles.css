@@ -37,7 +37,7 @@ a {
 }
 a:hover {
   background:#e6f34c;
-  color: gold; 
+  color: red; 
   padding: 2px;
   border-radius: 50px;
 }
