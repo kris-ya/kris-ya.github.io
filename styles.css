@@ -27,9 +27,9 @@ ul {
  margin: 10px;
 }
 h1 h2 {
-  border: 5px groove gold;
-	padding: 3px;
-	margin-bottom: 5px;
+  border: 20px groove gold;
+  padding: 3px;
+  margin-bottom: 5px;
   text-align: center; 
 }
 a {
@@ -48,7 +48,6 @@ a:hover {
   background: #ddddcf;
   margin-right: 10px; 
   margin-bottom: 10px;
-img {
   position: absolute;
   left: 50%;
   top: 50%;
