@@ -27,8 +27,6 @@ ul {
  margin: 10px;
 }
 h1 h2 {
-  width: 100px; 
-  height: 100px; 
   border-width: thick;
   border-style: dotted;
   border-color: gold;
@@ -44,8 +42,6 @@ a.href:hover {
   text-decoration: underline;  
 }
 .image img {
-  width: 640px; 
-  height: 480px; 
   border: 2px solid #caca22;
   padding: 15px; 
   background: #ddddcf;
