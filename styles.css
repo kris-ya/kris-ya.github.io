@@ -27,9 +27,8 @@ ul {
  margin: 10px;
 }
 h1 {
-  border: 2px solid #1E90FF;
-	padding: 3px;
-	margin-bottom: 5px; 
+  border: solid 3px green;
+  outline: solid 6px orange;
 }
 a {
   padding: 2px;
