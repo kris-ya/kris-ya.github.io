@@ -26,11 +26,10 @@ ul {
  background-image: linear-gradient(white, #B58B00);
  margin: 10px;
 }
-h1 h2 {
-  border: 20px groove gold;
-  padding: 3px;
-  margin-bottom: 5px;
-  text-align: center; 
+h1 {
+  border: 2px solid #1E90FF;
+	padding: 3px;
+	margin-bottom: 5px; 
 }
 a {
   padding: 2px;
