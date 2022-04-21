@@ -35,6 +35,7 @@ h1 h2 {
 a {
   padding: 2px;
   text-decoration: none; 
+  color: black;
 }
 a:hover {
   background:#e6f34c;
