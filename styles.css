@@ -30,6 +30,7 @@ h1 h2 {
   border-width: thick;
   border-style: dotted;
   border-color: gold;
+  text-align: center; 
 }
 a.href {
   background-color: #bcbc8c;
@@ -47,6 +48,7 @@ a.href:hover {
   background: #ddddcf;
   margin-right: 10px; 
   margin-bottom: 10px;
+  text-align: center; 
  
 }
 	
