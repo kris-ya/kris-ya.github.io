@@ -33,13 +33,14 @@ h1 h2 {
   border-style: groove;
 }
 a {
-  background-color: #FF704D;
+  padding: 2px;
+  text-decoration: none; 
+}
+a:hover {
+  background: #f73;
+  color: gold; 
   padding: 2px;
   border-radius: 50px;
-  text-decoration: none;
-}
-a.href:hover {
-  color: #ea0b0b0
 }
 .image img {
   border: 2px solid #caca22;
