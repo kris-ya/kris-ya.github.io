@@ -28,9 +28,7 @@ ul {
 }
 h1 h2 {
   text-align: center; 
-  border-color: gold;
-  border-width: 20px;
-  border-style: groove;
+  border: gold; 20px; groove;
 }
 a {
   padding: 2px;
