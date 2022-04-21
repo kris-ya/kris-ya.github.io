@@ -27,6 +27,7 @@ ul {
  margin: 10px;
 }
 h1 {
+  text-align: centre;
   border: solid 3px green;
   outline: solid 6px orange;
 }
