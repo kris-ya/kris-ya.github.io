@@ -48,8 +48,7 @@ a:hover {
   background: #ddddcf;
   margin-right: 10px; 
   margin-bottom: 10px;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%,-50%)
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
