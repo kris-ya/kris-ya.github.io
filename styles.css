@@ -42,15 +42,14 @@ a.href:hover {
   color: #ea0b0b0
   text-decoration: underline;  
 }
-.image img {
+.image {
   border: 2px solid #caca22;
   padding: 15px; 
   background: #ddddcf;
   margin-right: 10px; 
   margin-bottom: 10px;
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
- 
 }
-	
