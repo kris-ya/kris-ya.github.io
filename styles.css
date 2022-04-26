@@ -55,6 +55,7 @@ header {
 footer {
   background-color: #777;
   text-align: center;
+  padding: 10px;
   clear: both;
   width: 100%;
 }
