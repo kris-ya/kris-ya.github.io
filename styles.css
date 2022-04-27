@@ -69,11 +69,11 @@ aside {
 section {
   float: left;
   width: 40%;
-  background-color: #EBEBCA;
+  background-color: #E8E8C8;
 }
 article {
   float: left;
-  width: 40%;
+  width: 100%;
   background-color: #D4D4B6;
 }
 .clearfix::after { 
