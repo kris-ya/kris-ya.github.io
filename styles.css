@@ -65,11 +65,11 @@ aside {
 }
 section {
   float: left;
-  clear: left;
+  clear: right;
   background-color: #C7C7AB;
 }
 article {
   float: left;
-  clear: left;
+  clear: right;
   background-color: #C7C7AB;
 }
