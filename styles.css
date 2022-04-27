@@ -76,6 +76,11 @@ article {
   width: 100%;
   background-color: #D4D4B6;
 }
+article .exp {
+  float: left;
+  width: 100%;
+  background-color: #CFCFB2;
+}
 .clearfix::after { 
   content: ""; 
   clear: both; 
