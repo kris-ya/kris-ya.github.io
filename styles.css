@@ -74,7 +74,7 @@ section {
 article {
   float: left;
   width: 40%;
-  background-color: #C7C7AB;
+  background-color: #B3B39A;
 }
 .clearfix::after { 
   content: ""; 
