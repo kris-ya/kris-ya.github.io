@@ -74,8 +74,3 @@ article {
   width: 40%;
   background-color: #C7C7AB;
 }
-.clearfix::after { 
-  content: ""; 
-  clear: both; 
-  display: block; 
-}
